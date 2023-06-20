@@ -1,0 +1,6 @@
+Github Repos
+===========
+AdvancedReduxCode (all codes)
+https://github.com/StephenGrider/AdvancedReduxCode/tree/master
+ReduxSimpleStarter (starter boilerplate)
+https://github.com/StephenGrider/ReduxSimpleStarter
